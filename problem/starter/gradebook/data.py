@@ -19,3 +19,17 @@ RECORDS: list[dict] = [
     {"name": "Diana",   "subject": "Science", "score": 70},
     {"name": "Diana",   "subject": "English", "score": 65},
 ]
+RECORDS: list[dict] = [
+    {"name": "Alice",   "subject": "Math",    "score": 88},
+    {"name": "Alice",   "subject": "Science", "score": 92},
+    {"name": "Alice",   "subject": "English", "score": 79},
+    {"name": "Bob",     "subject": "Math",    "score": 75},
+    {"name": "Bob",     "subject": "Science", "score": 85},
+    {"name": "Bob",     "subject": "English", "score": 87},
+    {"name": "Charlie", "subject": "Math",    "score": 95},
+    {"name": "Charlie", "subject": "Science", "score": 89},
+    {"name": "Charlie", "subject": "English", "score": 90},
+    {"name": "Diana",   "subject": "Math",    "score": 60},
+    {"name": "Diana",   "subject": "Science", "score": 70},
+    {"name": "Diana",   "subject": "English", "score": 65},
+]
